@@ -70,6 +70,7 @@ More information is available in the [Documentation](./Documentation) section of
 - [Configuration](./Documentation/Configuration.md)
 - [Discover Overview](./Documentation/DiscoverOverview.md)
 - [Project Structure](./Documentation/ProjectStructure.md)
+- [MRBike Transfer Guide](./Documentation/MRBikeTransferGuide.md)
 
 Custom Packages:
 
